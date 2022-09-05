@@ -1,0 +1,20 @@
+@import "scss/variable";
+
+* {
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.specialFont {
+  font-family: 'Roboto', sans-serif !important;
+  font-family: 'Playfair Display SC', serif !important;
+  font-family: 'Playfair Display', serif !important;
+}
+
+.special {
+  font-family: 'Playfair Display SC', serif !important;
+}
+
+.button{
+  background-color: $mainColor;
+}

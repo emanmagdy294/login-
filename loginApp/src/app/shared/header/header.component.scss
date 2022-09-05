@@ -1,0 +1,16 @@
+@import "../../../scss/variable";
+
+.active {
+  color: $secondColor;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #000;
+}
+.navBg{
+    background-color: $mainColor ;
+}

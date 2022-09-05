@@ -1,0 +1,17 @@
+@import "../../../scss/variable";
+
+.bgHome {
+  background-image: url(../../../assets/images/bg-breadcrumb.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 40vh;
+}
+
+.addres {
+  color: $mainColor;
+}
+
+.paragraphe {
+  color: $secondColor;
+}

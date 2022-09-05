@@ -1,0 +1,19 @@
+@import "../../../scss/variable";
+
+.bgLogin {
+  background-image: url(../../../assets/images/1_13657937-d726-4492-9881-c9f95014fe07.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 40vh;
+}
+
+.address {
+  color: #000;
+  font-weight: bolder;
+}
+
+
+.btn {
+  cursor: pointer !important;
+}
